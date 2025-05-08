@@ -37,7 +37,7 @@ Link: [Students Performance Dashboard](https://public.tableau.com/app/profile/na
 Dashboard menampilkan ringkasan dan visualisasi komprehensif mengenai status akademik dan keuangan siswa. Di bagian atas terlihat jumlah mahasiswa yang dropout (1.421), masih terdaftar/enrolled (794), dan yang telah lulus/graduate (2.209), beserta tingkat dropout sebesar 32,12 %. Selanjutnya, grafik “Scholarship Holder vs Non-Holder per Status” memerlihatkan perbandingan mahasiswa penerima beasiswa dan non-penerima beasiswa dalam masing-masing kategori status (dropout, enrolled, graduate). Grafik “Tuition Fees up to Date per Status” menggambarkan jumlah mahasiswa yang membayar biaya kuliah tepat waktu berdasarkan statusnya, sementara grafik “Debtor per Status” menunjukkan jumlah mahasiswa yang masih memiliki tunggakan biaya—juga dikelompokkan menurut status studi. 
 
 ## Menjalankan Sistem Machine Learning
-Link: []()<br>
+Link: [students-performance-app](https://student-performance-jayainstitute.streamlit.app/)<br>
 run on local:
 ```
 streamlit run student_performance_app.py
